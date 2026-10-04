@@ -1,1 +1,1 @@
-KYXD("_b-lancaster-ma",{"activity":{"bma-lancaster-state-forest-lancaster":{"src":"http://www.wikidata.org/entity/Q49514361","bst":"MA","bmi":14.3,"bco":"Lancaster, MA"}}});
+KYXD("_b-lancaster-ma",{"activity":{"bma-lancaster-state-forest-lancaster":{"src":"http://www.wikidata.org/entity/Q49514361","th":{"u":"img/b/ma/thumbs/activity/lancaster-state-forest-lancaster.jpg","k":"satellite"},"bst":"MA","bmi":14.3,"bco":"Lancaster, MA"}}});
