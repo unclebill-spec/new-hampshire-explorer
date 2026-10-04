@@ -33,3 +33,7 @@ Copied from the Utah code base (Oct 4 2026), including Idaho's bath-count fix. E
 - 24 towns with suppressed ACS home values use the county median; 72 towns without their own school use the nearest schools. RN employment counts null (BLS limits).
 - Ellacoya State Park has no coordinates; some peaks (Mount Major, Mount Hale, Mount Cube, ...) not built. OSRM times for remote northern unincorporated places are long (up to 314 min).
 - Shared app.js still says "about 19% list pay" in the perm panel (KY figure); county history layer empty.
+
+### 50+ acre lots under $250k (Oct 4, 2026 ~10:31 AM ET, big-land worker)
+- Black-star layer `big-land` (50+ ac, < $250k, land or home), "50+ ac" button, Map key row, card; shared code from the KY explorer (see KY explorer/AGENTS.md, same date). build.py (marker BIGLAND) merges `/workspace/new-hampshire/bigland.json`.
+- Refresh: `/usr/bin/python3 /workspace/bigland/bigland.py NH --refresh` before build/publish (keeps the old file if Zillow blocks). Notes: /workspace/bigland/PROGRESS.md.
