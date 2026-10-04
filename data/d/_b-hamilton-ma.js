@@ -1,0 +1,1 @@
+KYXD("_b-hamilton-ma",{"activity":{"bma-bradley-palmer-state-park-hamilton":{"web":"https://www.mass.gov/locations/bradley-palmer-state-park","desc":"park in Essex County, Massachusetts, United States of America","wiki":"en:Bradley Palmer State Park","src":"http://www.wikidata.org/entity/Q4955000","bst":"MA","bmi":14.7,"bco":"Hamilton, MA"}}});

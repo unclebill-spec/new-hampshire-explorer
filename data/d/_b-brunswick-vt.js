@@ -1,0 +1,1 @@
+KYXD("_b-brunswick-vt",{"activity":{"bvt-silvio-o-conte-national-fish-and-wildlife-refuge-brunswick":{"web":"https://www.fws.gov/refuge/silvio_o_conte","desc":"natural conservation area in the northeastern United States","wiki":"en:Silvio O. Conte National Fish and Wildlife Refuge","src":"http://www.wikidata.org/entity/Q7517138","bst":"VT","bmi":3.6,"bco":"Brunswick, VT"}}});

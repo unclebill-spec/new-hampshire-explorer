@@ -1,0 +1,1 @@
+KYXD("_b-victory-vt",{"activity":{"bvt-victory-state-forest-victory":{"desc":"forest in Vermont, United States","wiki":"en:Victory State Forest","src":"http://www.wikidata.org/entity/Q29641734","bst":"VT","bmi":12.6,"bco":"Victory, VT"}}});
