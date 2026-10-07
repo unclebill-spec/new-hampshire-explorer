@@ -1,6 +1,9 @@
 # New Hampshire Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-07
+- 14:43 ET: Listings refresh: +7 new, -5 sold/off-market, 15 price drops (1 increase); 50+ ac 6 -> 5, waterfalls 4 -> 3 (2 went under contract); 581 perm RN jobs (2026-10-07)
+
 ## 2026-10-05
 - 23:15 ET: Add North Carolina to the state switcher (new North Carolina Explorer); shared Anna code: per-state wording + estimated-pay labels
 
