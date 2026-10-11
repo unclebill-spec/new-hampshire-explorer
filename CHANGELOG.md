@@ -1,6 +1,9 @@
 # New Hampshire Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-11
+- 08:42 ET: Listings refresh r3: +5 new, -1 sold/off-market, 2 price drops, 2 price changes; bigland/cavefalls/perm refreshed (r3-2026-10-11)
+
 ## 2026-10-10
 - 02:39 ET: Listings refresh r2: +10 new, -2 sold/off-market, 19 price drops, 19 price changes; bigland/cavefalls/perm refreshed (r2-2026-10-10)
 
