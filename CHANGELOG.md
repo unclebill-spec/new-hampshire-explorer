@@ -2,6 +2,7 @@
 
 Newest first. Times are ET.
 ## 2026-11-14
+- 14:42 ET: Listings refresh r24: +0 new, -8 sold/off-market, 15 price drops, 15 price changes; bigland/cavefalls/perm refreshed (r24-2026-11-14)
 - 02:52 ET: Add Houses (no-land homes) and Towns (townhomes/apartments/condos) layers data
 
 ## 2026-11-12
