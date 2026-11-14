@@ -1,6 +1,9 @@
 # New Hampshire Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-14
+- 02:52 ET: Add Houses (no-land homes) and Towns (townhomes/apartments/condos) layers data
+
 ## 2026-11-12
 - 03:11 ET: Listings refresh r23: +0 new, -2 sold/off-market, 14 price drops, 14 price changes; bigland/cavefalls/perm refreshed (r23-2026-11-12)
 
