@@ -1,6 +1,9 @@
 # New Hampshire Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-17
+- 02:55 ET: Listings refresh r25: +0 new, -2 sold/off-market, 1 price drops, 1 price changes; bigland/cavefalls/perm refreshed (r25-2026-11-16)
+
 ## 2026-11-16
 - 11:19 ET: State switcher: add Nebraska, South Dakota, North Dakota
 
